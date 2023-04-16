@@ -1,0 +1,17 @@
+database:
+  host:
+  port:
+  user:
+  password:
+  database:
+
+sign:
+  secret:
+
+server:
+  host:
+  port:
+  protocol:
+  ssl:
+    cert:
+    key:
